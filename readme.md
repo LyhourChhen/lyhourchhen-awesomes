@@ -2,7 +2,7 @@
 ![enter image description here](https://raw.githubusercontent.com/LyhourChhen/Awesome-List/master/logo.png)
 
 <div>
-	<b><a href="https://github.com/LyhourChhen/Personal-List/blob/master/reactList.md">React List<a/></b>
+	<a href="https://github.com/LyhourChhen/Personal-List/blob/master/reactList.md">React List<a/>
 	</div>
 	
 ## Contents
