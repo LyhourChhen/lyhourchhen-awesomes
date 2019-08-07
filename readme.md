@@ -29,6 +29,29 @@
 - [Related](#related)
 
 
+## LyhourChhen
+
+##### 	General
+- [Movie list for hacker ](https://github.com/k4m4/movies-for-hackers) - Any relate hacker movie list.
+-  [Terminal things](https://github.com/k4m4/terminals-are-sexy) - Terminal all kind of things relate.
+- [technical-whitepapers](https://github.com/trimstray/technical-whitepapers) - Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
+#####   Blockchain 
+- [Blockchain research and whitepapers](https://github.com/bellaj/Blockchain) - Blockchain research and whitepaper relate.
+##### 	Hacking and security research 
+- [Hackin combine github](https://github.com/Hack-with-Github) - Github combine all hacking relate
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [OWASP](https://www.owasp.org/index.php/Main_Page) - The Open Web Application Security Project.
+- [Social Fish](https://github.com/UndeadSec/SocialFish) - New way to make phising attack.
+
+##### 	Development
+- [Blockchain by example](https://github.com/PacktPublishing/Blockchain-By-Example) - Learn to write blockchain base on example.
+#####   DEV in Khmer Languages 
+- [machine_learning_lesson](https://github.com/khmertool/machine_learning_lesson) - Machine learning lesson in khmer .
+##### 	Github Useful Repo
+- [Technology Book](https://github.com/arpitjindal97/technology_books) - Technology Book.
+- [algorithm repo](https://github.com/TheAlgorithms) - All implementation of ALgorithms
+
+
 
 ## Platforms
 
@@ -618,24 +641,3 @@
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [Original Repo](https://github.com/sindresorhus/awesome)
 
-## LyhourChhen
-
-##### 	General
-- [Movie list for hacker ](https://github.com/k4m4/movies-for-hackers) - Any relate hacker movie list.
--  [Terminal things](https://github.com/k4m4/terminals-are-sexy) - Terminal all kind of things relate.
-- [technical-whitepapers](https://github.com/trimstray/technical-whitepapers) - Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
-#####   Blockchain 
-- [Blockchain research and whitepapers](https://github.com/bellaj/Blockchain) - Blockchain research and whitepaper relate.
-##### 	Hacking and security research 
-- [Hackin combine github](https://github.com/Hack-with-Github) - Github combine all hacking relate
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [OWASP](https://www.owasp.org/index.php/Main_Page) - The Open Web Application Security Project.
-- [Social Fish](https://github.com/UndeadSec/SocialFish) - New way to make phising attack.
-
-##### 	Development
-- [Blockchain by example](https://github.com/PacktPublishing/Blockchain-By-Example) - Learn to write blockchain base on example.
-#####   DEV in Khmer Languages 
-- [machine_learning_lesson](https://github.com/khmertool/machine_learning_lesson) - Machine learning lesson in khmer .
-##### 	Github Useful Repo
-- [Technology Book](https://github.com/arpitjindal97/technology_books) - Technology Book.
-- [algorithm repo](https://github.com/TheAlgorithms) - All implementation of ALgorithms
