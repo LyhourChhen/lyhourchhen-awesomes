@@ -35,6 +35,7 @@
 ## LyhourChhen
 
 ##### 	General 
+- [Begineer for awesome](https://github.com/MunGell/awesome-for-beginners)
 - [Functional Programming roadmap](https://github.com/leandrotk/functional-programming-learning-path) - Functional programing path.
 - [techlead](https://github.com/derekbrown/techlead) - techlead documentation collections !
 - [Interview books](https://github.com/yangshun/tech-interview-handbook) - Interview for JS
