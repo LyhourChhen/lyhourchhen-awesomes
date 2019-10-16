@@ -36,6 +36,7 @@
 ## LyhourChhen
 
 ##### 	General 
+- [Hacking while law enforment bridge with the goverment](https://www.defcon.org/) -defcon
 - [Free API](https://github.com/public-apis/public-apis) - Collect all api ! 
 - [Business Awesome](https://medium.com/swlh/300-awesome-free-things-e07b3cd5fd5b) - Awesome-list -> for entreprenurs ! 
 - [a-> z](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - list for everhtings
