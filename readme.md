@@ -36,6 +36,7 @@
 ## LyhourChhen
 
 ##### 	General 
+- [Network hacking tutorial](https://github.com/hmaverickadams/Beginner-Network-Pentesting?fbclid=IwAR0t6a2j-speo99YuASP-25FZuc9R2AlXmGPzvzRX7KySh-nyLQiW81lTQE) - Network hacking tutorial
 - [xiao mi reverse enginner](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) XiaoMi hack, reverse engineer
 - [APp ideas](https://github.com/florinpop17/app-ideas) Get the new idea to coding here...
 - [Hacking while law enforment bridge with the goverment](https://www.defcon.org/) -defcon
