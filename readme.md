@@ -36,6 +36,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [Startup useful course](https://learnstartup.net/) useful course for startupper to klearn motherFucker
 - [bunch of the algorithm](https://github.com/TheAlgorithms) the whole of all the algorithm 
 - [Guy this is so cool](https://github.com/jnv/lists) fucking another list
 - [Brave React UI](https://github.com/brave/brave-ui) the bunch of the brave UI 
