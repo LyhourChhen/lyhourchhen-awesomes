@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [React-Native Camera Components](https://github.com/react-native-community/react-native-camera) - haha rn component with camera
 - [devop mother fucker](https://github.com/bregman-arie/devops-interview-questions) - cool devop interview
 - [pyhton cooler](https://github.com/mahmoud/awesome-python-applications) - another cool list from python 
 - [React cool native](https://hackernoon.com/11-react-native-ui-components-you-should-know-in-2019-75404e6c9a00) - react-native library cool
