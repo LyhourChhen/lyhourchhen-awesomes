@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [React-Native Design system](https://www.netguru.com/blog/design-systems-in-react-native) - blog about the design system in react native !
 - [React-Native Camera Components](https://github.com/react-native-community/react-native-camera) - haha rn component with camera
 - [devop mother fucker](https://github.com/bregman-arie/devops-interview-questions) - cool devop interview
 - [pyhton cooler](https://github.com/mahmoud/awesome-python-applications) - another cool list from python 
