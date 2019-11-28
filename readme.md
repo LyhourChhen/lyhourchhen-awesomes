@@ -39,6 +39,8 @@
 ## LyhourChhen
 
 ##### 	General
+- [DevOps](https://github.com/Tikam02/DevOps-Guide) - Devop R&D documents
+- [bitcoin research](https://github.com/chaincodelabs/bitcoin-curriculum) - R&D documents around bitcoin researching!
 - [mongo DB cheatsheet](https://www.youtube.com/redirect?q=https%3A%2F%2Fgist.github.com%2Fbradtraversy%2Ff407d642bdc3b31681bc7e56d95485b6&event=video_description&v=-56x56UppqQ&redir_token=GdxWMCX3iGsCAehaeZMpkscIaq58MTU3NDYwMDI0OUAxNTc0NTEzODQ5) -cheatsheet for mongoDB
 - [React-Native Design system](https://www.netguru.com/blog/design-systems-in-react-native) - blog about the design system in react native !
 - [React-Native Camera Components](https://github.com/react-native-community/react-native-camera) - haha rn component with camera
