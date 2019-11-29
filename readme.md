@@ -39,7 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
-- [typescript+react](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - cheatsheet for typescript
+- [typescript+react](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - cheatsheet for typescript + react
 - [devOP](https://github.com/Tikam02/DevOps-Guide) - devop guide
 - [another design system](https://ant.design/) - any deisng system !
 - [DevOps](https://github.com/Tikam02/DevOps-Guide) - Devop R&D documents
