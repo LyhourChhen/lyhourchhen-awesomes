@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [Graph ql Construction](https://github.com/prisma-labs/nexus) - schema contrction graph
 - [typescript+react](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) - cheatsheet for typescript + react
 - [devOP](https://github.com/Tikam02/DevOps-Guide) - devop guide
 - [another design system](https://ant.design/) - any deisng system !
