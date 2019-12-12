@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [tailwindcss](https://github.com/tailwindcss/tailwindcss) - the best way to repid UI design .
 - [chara](https://chakra-ui.com/) - another react compoenent UI
 - [collection of advent of code](https://github.com/Bogdanp/awesome-advent-of-code) - learn algorithm by conduct the problem with advent of code !
 - [type + node](https://github.com/bitjson/typescript-starter) getting start with type
