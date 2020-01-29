@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [JavaScript Vanilla mini Project](https://github.com/bradtraversy/vanillawebprojects) - The JavaScript Vanilla project to practise
 - [react-spring](https://github.com/react-spring/react-spring) - Animation with React with Spring!
 - [Modern JavaScript for Free](https://github.com/javascript-tutorial/en.javascript.info/tree/master) - Learn modern JavaScript for free
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - JavaScript Question Interview & Algorithm
