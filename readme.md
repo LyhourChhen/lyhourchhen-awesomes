@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [typeScriptReact_CheatSheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#reacttypescript-cheatsheets) - react + typeScript = CheatSheet
 - [Freelacing guide](https://github.com/LyhourChhen) - the guide led you to become freelencer
 - [react-final-form](https://github.com/final-form/react-final-form) - built form easier
 - [Coding Question Interview](https://github.com/yangshun/tech-interview-handbook) - coding interview question
