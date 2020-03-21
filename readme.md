@@ -39,6 +39,7 @@
 ## LyhourChhen
 
 ##### 	General
+- [Example Base with React and TypeScript](https://github.com/Lemoncode/react-typescript-samples) - React - TypeScript Example 
 - [ts-react-redux-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - React Redux TypeScript Guide
 - [AWE-OSEE- Prepare](https://github.com/connormcgarr/AWE-OSEE-Prep) - Prepare sheet on hacking cirtificate.
 - [typeScriptReact_CheatSheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#reacttypescript-cheatsheets) - react + typeScript = CheatSheet
