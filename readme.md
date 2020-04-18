@@ -38,6 +38,10 @@
 
 ## LyhourChhen
 
+##### Great repos need to check out now !!!
+- [Learn to build your own technology here](https://github.com/danistefanovic/build-your-own-x) - The docs relate demonstrate to build own  technology.
+- [Programming Book for free](https://github.com/EbookFoundation/free-programming-books) - free programming book to download.
+
 ##### 	General
 - [Example Base with React and TypeScript](https://github.com/Lemoncode/react-typescript-samples) - React - TypeScript Example 
 - [ts-react-redux-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - React Redux TypeScript Guide
