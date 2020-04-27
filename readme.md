@@ -56,6 +56,7 @@
 
 
 ##### 	General
+- [monitor-cli](https://github.com/aristocratos/bashtop) - sys monitor cli
 - [Example Base with React and TypeScript](https://github.com/Lemoncode/react-typescript-samples) - React - TypeScript Example 
 - [ts-react-redux-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - React Redux TypeScript Guide
 - [AWE-OSEE- Prepare](https://github.com/connormcgarr/AWE-OSEE-Prep) - Prepare sheet on hacking cirtificate.
