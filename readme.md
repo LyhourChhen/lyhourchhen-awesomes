@@ -45,6 +45,7 @@
 - [jimp](https://github.com/oliver-moran/jimp) - modified and manipulate the piture in nodejs with server side
 
 ##### Great repos need to check out now !!!
+- [Graphql-Prisma](https://github.com/prisma/prisma-examples) - GraphQL Prisma excample.
 - [learn resources](https://github.com/lauragift21/awesome-learning-resources) - The place where resource to learn everything.
 - [Learn to build your own technology here](https://github.com/danistefanovic/build-your-own-x) - The docs relate demonstrate to build own  technology.
 - [Programming Book for free](https://github.com/EbookFoundation/free-programming-books) - free programming book to download.
