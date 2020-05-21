@@ -57,6 +57,7 @@
 
 
 ##### 	General
+- [TypeORM Boliplate](https://github.com/tobiaslins/typesafety-from-db-to-frontend) - TypeORM boliplate.
 - [rxDart](https://github.com/hoc081098/find_room_flutter_BLoC_pattern_RxDart) - rx implement with flutter
 - [the best virtual whiteboard](https://github.com/excalidraw/excalidraw) - virtual whiteboard opensource
 - [monitor-cli](https://github.com/aristocratos/bashtop) - sys monitor cli
